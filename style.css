@@ -1,0 +1,157 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+.banner {
+    width: 80%;
+    display: flex;
+    margin: auto;
+    justify-content: space-between;
+    margin-top: 100px;
+}
+
+h1 {
+    font-size: 50px;
+    font-weight: 700;
+    border-left: 5px solid orangered;
+    border-radius: 10px;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.content-color {
+    color: orange;
+}
+
+p {
+    font-size: 20px;
+    color: grey;
+    margin-bottom: 50px;
+}
+
+.link-button {
+    text-decoration: none;
+    font-size: 15px;
+    background-color: orange;
+    padding: 15px 25px;
+    border-radius: 5px;
+    color: #fff;
+}
+
+p {
+    margin-top: 50px;
+}
+
+.half-with {
+    width: 40%;
+}
+
+.half-with img {
+    width: 90%;
+}
+
+/*-----------scend contend-------------*/
+.scend-contend {
+    width: 80%;
+    margin: auto;
+    text-align: center;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+.scend-contend h2 {
+    font-size: 40px;
+    font-weight: 700;
+}
+
+.row {
+    margin-top: 5%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.col img {
+    width: 50%;
+}
+
+.col h4 {
+    font-size: 20px;
+}
+
+.col {
+    flex-basis: 30%;
+    padding: 10px;
+    border-radius: 20px;
+    margin-bottom: 5%;
+}
+
+#col-color1 {
+    background-color: rgb(219, 255, 246);
+}
+
+#col-color2 {
+    background-color: rgb(253, 215, 237);
+}
+
+#col-color3 {
+    background-color: rgb(250, 253, 218);
+}
+
+/*-------------------3 namber contend------------------------*/
+.contend3 {
+    width: 80%;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 100px;
+}
+
+h3 {
+    font-size: 40px;
+}
+
+/*-------------------5 namber contend------------------------*/
+.contend5 {
+    width: 80%;
+    margin: 100px auto;
+    background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(images/blog_20180306_iStock_76937845.jpg);
+    background-size: cover;
+    background-position: center;
+    padding: 200px 0;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.contend3 {
+    width: 80%;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 100px;
+}
+
+h3 {
+    font-size: 40px;
+}
+
+
+.contend5 h6 {
+    color: #fff;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 35px;
+    margin-bottom: 40px;
+}
+
+/*-------------------footer------------------------*/
+.footer-ariya {
+    background-color: rgb(36, 33, 33);
+    text-align: center;
+    padding-top: 5px;
+    padding-bottom: px;
+}
+
+h5 {
+    font-size: 50px;
+    color: #fff;
+    font-family: 'Ubuntu', sans-serif;
+
+}
